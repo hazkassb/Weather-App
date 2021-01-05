@@ -5,9 +5,9 @@
 ### - RequestQueue
 ### - REST API services
 ### - CallBacks concepts for Async requests
-### - How to work with a Singleton ==> a design pattern is used to restrict the instantiation of a class and ensure that only one instance of the class exists in the JVM
+### - How to work with a Singleton ==> a design pattern used to restrict the instantiation of a class and ensure that only one instance of the class exists in the JVM
 ### - The Volley Library
-## - Fetch a JSONObject from and Array
+## - Fetch a JSONObject from an Array
 ### - Fetch JSONArray with Volley
 
 ## Next Steps:
