@@ -2,7 +2,7 @@
 ### This is an Android weather mobile app with Java that handles JSON data from a REST API service. The app uses the Volley library to create a weather app using API data
 
 ## Technologies/Skills used/learned:
-### - RequeQueue
+### - RequestQueue
 ### - REST API services
 ### - CallBacks concepts for Async requests
 ### - How to work with a Singleton ==> a design pattern is used to restrict the instantiation of a class and ensure that only one instance of the class exists in the JVM
